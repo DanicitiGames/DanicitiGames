@@ -2,12 +2,12 @@
 Oiee, sou Daniciti, em alguns lugares sou mais conhecido como DanicitiGames, estou focado no desenvolvimento do meu jogo, chamado Yangire, o jogo será uma espécie de RPG-Sandbox-Escolar e apresentará uma história que será gerada de forma única tornando cada salvamento diferente do outro.
 ### Quais linguagens eu utilizo?
 - HTML
-- NodeJS
+- JavaScript
 - Python
 - C#
 - C++
 
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 ### Configurações do meu computador:
 <img align="center" src="https://img.shields.io/badge/NVIDIA-GTX750Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> <img align="center" src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 - 3x 8GB DDR4 2666MHz
