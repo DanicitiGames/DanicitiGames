@@ -1,5 +1,4 @@
 
-<img align="right" src="https://i.pinimg.com/originals/ac/39/93/ac3993aa683c8b166003e1a85463dafa.gif"></img>
 <h1 align="center">Bem vindo ao meu perfil ;3</h1>
 <h4 align="left">Oiee, sou o Daniciti, em alguns lugares sou mais conhecido como DanicitiGames, estou aprendendo a programar desde 2020 no início da pandemia e este é o meu portifólio:</h4>
 <h2 align="center">Quais linguagens eu utilizo?</h2>
