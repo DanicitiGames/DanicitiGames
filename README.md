@@ -7,7 +7,7 @@
 - 👨🏽‍💻 Atualmente estou trabalhando na [Yangire](https://yangire.xyz/), [Gestorino](https://github.com/DanicitiGames/gestorino) e no [WinHM](https://github.com/DanicitiGames/WinHM);
 - 🌱 Estou focado em estudar C#, JS e PHP nesse momento;
 - ⚡️ Fun-Fact: undefined;
-- 📫 Meu discord: Daniciti#0001;
+- 📫 Meu discord: Daniciti#3387;
 <h2 align="center">Quais linguagens eu utilizo?
   <br><br>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br><br></h2>
