@@ -2,7 +2,7 @@
 <h1 align="center">Bem vindo ao meu perfil ;3</h1>
 <h4 align="left">Oiee, sou o Daniciti, em alguns lugares sou mais conhecido como DanicitiGames, estou aprendendo a programar desde 2020 no início da pandemia e este é o meu portifólio:</h4>
 <h2 align="center">Quais linguagens eu utilizo?</h2>
-<h1 align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<h1 align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanicitiGames&custom_title=Linguagens mais usadas:&theme=discord_old_blurple"></h1>
 <h4 align="center">Visitas:eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{DanicitiGames}/count.svg" alt="DanicitiGames :: Visitantes" /></p>
