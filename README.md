@@ -4,8 +4,8 @@
 <h4 align="left">Oiee, sou o Daniciti, em alguns lugares sou mais conhecido como DanicitiGames, estou aprendendo a programar desde 2020 no início da pandemia e este é o meu portifólio:</h4>
 
 ### Oque ando tramando?
-- 👨🏽‍💻 Atualmente estou trabalhando na [Yangire](https://yangire.xyz/), [Gestorino](https://github.com/DanicitiGames/gestorino) e no [WinHM](https://github.com/DanicitiGames/WinHM);
-- 🌱 Estou focado em estudar C#, JS e PHP nesse momento;
+- 👨🏽‍💻 Atualmente estou trabalhando na [Yangire](https://yangire.xyz/);
+- 🌱 Estou focado em estudar desenvolvimento de games nesse momento;
 - ⚡️ Fun-Fact: undefined;
 - 📫 Meu discord: Daniciti#3387;
 - 🖥️ Meu site: https://daniciti.com;
