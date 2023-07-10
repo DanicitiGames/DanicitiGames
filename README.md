@@ -4,7 +4,7 @@
 <h4 align="left">Oiee, sou o Daniciti, em alguns lugares sou mais conhecido como DanicitiGames, estou aprendendo a programar desde 2020 no início da pandemia e este é o meu portifólio:</h4>
 
 ### Oque estou tramando?
-- 👨🏽‍💻 Atualmente estou trabalhando no NexusCRM;
+- 👨🏽‍💻 Atualmente estou trabalhando no Userbus;
 - 🌱 Estou focando em estudar Desenvolvimento de Games e C#;
 - ⚡️ Fun-Fact: undefined;
 - 📫 Meu discord: @Daniciti;
