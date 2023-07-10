@@ -7,7 +7,7 @@
 - 👨🏽‍💻 Atualmente estou trabalhando no NexusCRM;
 - 🌱 Estou focando em estudar Desenvolvimento de Games e C#;
 - ⚡️ Fun-Fact: undefined;
-- 📫 Meu discord: Daniciti#3387;
+- 📫 Meu discord: @Daniciti;
 - 🖥️ Meu site: https://daniciti.com;
 <h4 align="center">Visitas:eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{DanicitiGames}/count.svg" alt="DanicitiGames :: Visitantes" /></p>
